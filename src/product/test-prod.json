@@ -1,0 +1,28 @@
+{
+    "image": "22.png",
+	"title": "Тест продукт",
+	"price": 250,
+	"oldPrice": 300,
+	"credit": 9,
+	"description": "Опис продукту",
+	"advanteges": "Переваги",
+	"disAdvanteges": "Недоліки",
+	"categories": ["категор1-1", "категор1-2"],
+    "tags": ["Тег1", "Тег2"],
+	"characteristics": [{
+        "name": "Характеристика1-1",
+        "value": "Добре"
+    }, {
+        "name": "Характеристика2-2",
+        "value": "Погано"
+    }], 
+    "2": {
+        "name": "Характеристика2-2",
+        "title": "Тест продукт",
+        "description": "Опис продукту",
+        "rating": 5,
+        "productId": "66a8a22cca7a3c3314c405d1"
+    }
+}
+
+
